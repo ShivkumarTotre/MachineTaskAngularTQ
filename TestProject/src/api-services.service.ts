@@ -24,15 +24,4 @@ export class ApiServicesService {
     return this.http.post(this.api, param, this.httpOption)
   }
 
-
-
-
-
-
-
-
-
-
-  apiUrL = 'https://localhost:8080/';
-
 }
